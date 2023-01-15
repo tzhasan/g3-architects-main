@@ -41,6 +41,12 @@
   
   }
 }
+
+
+
+
+
+
 /* navbar-style-start----------------------------------------------------------------------------------------------------------------- */
 header{
   background-color: rgba(255, 144, 14, 0.1);
@@ -106,6 +112,9 @@ header{
 
 
 
+
+
+
 /* 
 brand-new-section start here-------------------------------------------------------------------- */
 
@@ -145,6 +154,9 @@ brand-new-section end here------------------------------------------------------
 
 
 
+
+
+
 /* 
 -banner-section start
 ------------------------------------------------------------ */
@@ -168,6 +180,10 @@ brand-new-section end here------------------------------------------------------
 /* 
 -banner-section start
 ------------------------------------------------------------ */
+
+
+
+
 
 
 /* -------------------------
@@ -230,6 +246,10 @@ quick list---------------------- */
 
 /* -------------------------
 quick list---------------------- */
+
+
+
+
 
 
 
@@ -339,6 +359,11 @@ features start---------------------- */
 features ends---------------------- */
 
 
+
+
+
+
+
 /* some-facts start-------------------------- */
 .some-facts{
   width: 75em;
@@ -382,6 +407,7 @@ features ends---------------------- */
   transform: scale(1.1);
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
+
 @media screen  and (max-width:480px){
   .some-facts{
     width: 70vw;
@@ -415,6 +441,12 @@ features ends---------------------- */
 
 /* -------------------
 some-facts end-------------------------- */
+
+
+
+
+
+
 
 /* form------------------------------- */
 .form-container{
@@ -460,6 +492,12 @@ input[type=submit]:hover{
   color: #FF900E;
   border: 1px solid #FF900E;
 }
+
+
+
+
+
+
 
 /* sponsor style start */
 .sponsor-container{
@@ -515,6 +553,11 @@ input[type=submit]:hover{
  
 }
 /* sponsor style end */
+
+
+
+
+
 
 
 
